@@ -37,8 +37,8 @@ So I made changes accordingly.
 <li>I made changes in size and shape of data points for better visualization in my seventh sheet.</li>
 <li>I changed the bar graph to table for my 5th sheet.</li>
 <li>I used a boxplot for my 8th sheet and changed the variables like embarkment and used Fare.</li>
-<li>Also I removed the bar graph and used the table chart for my 9th sheet.<li>
-<li>I hid my 10th sheet to avoid repeatation, and I changed my 11th sheet for same reason, and used Cabin field to analyze the data.<li>
+<li>Also I removed the bar graph and used the table chart for my 9th sheet.</li>
+<li>I hid my 10th sheet to avoid repeatation, and I changed my 11th sheet for same reason, and used Cabin field to analyze the data.</li>
 
 
 ### Final submission: Below is my final project's link
