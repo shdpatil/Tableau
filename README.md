@@ -18,11 +18,9 @@ After having a good look at the Titanic data set .csv file I found Survived fiel
 
 ### Feedback: Below are the feedbacks which I received for my initial work.
 
- 1)Increase the variety of graphs used - bar chart is now the predominant leader, consider other types of graphs such as boxplot 
- and histogram to add more variation. Consider consolidating similar graphs - for example, survival rate based on embarking ports, 
- currently, it’s available on multiple slides, after consolidation, there’ll be fewer slides and maybe clearer focus for each slide. 
- Optimize some graphs to make them easier to interpret - For example, on the first slide, it’s not clear what the greyed area represent
- in the upper graph; for the bottom one, the number 1, 2, 3 might be wrongly interpreted as number of passengers.
+ 1)Feedback 1st:<li>Increase the variety of graphs used - bar chart is now the predominant leader, consider other types of graphs such as boxplot 
+ and histogram to add more variation</li>. <li>Consider consolidating similar graphs - for example, survival rate based on embarking ports, 
+ currently, it’s available on multiple slides, after consolidation, there’ll be fewer slides and maybe clearer focus for each slide.</li> <li> Optimize some graphs to make them easier to interpret - For example, on the first slide, it’s not clear what the greyed area represent in the upper graph; for the bottom one, the number 1, 2, 3 might be wrongly interpreted as number of passengers.</li>
  
  2)Your visualization looks stunning. The conclusion photo is really nice, it is familiar though. It brings a fresh perspective.
 Here are my observations.
