@@ -22,7 +22,7 @@ After having a good look at the Titanic data set .csv file I found Survived fiel
  and histogram to add more variation</li>. <li>Consider consolidating similar graphs - for example, survival rate based on embarking ports, 
  currently, it’s available on multiple slides, after consolidation, there’ll be fewer slides and maybe clearer focus for each slide.</li> <li> Optimize some graphs to make them easier to interpret - For example, on the first slide, it’s not clear what the greyed area represent in the upper graph; for the bottom one, the number 1, 2, 3 might be wrongly interpreted as number of passengers.</li>
  
- 2)Your visualization looks stunning. The conclusion photo is really nice, it is familiar though. It brings a fresh perspective.
+ 2)Feedback 2nd: <li>Your visualization looks stunning. The conclusion photo is really nice, it is familiar though. It brings a fresh perspective.</li>
 Here are my observations.
 Your revelations about data in systematic manner is appreciable.
 The conclusion page could be given some kind of information which you have written on the box. Some kind of graph would have been better.
