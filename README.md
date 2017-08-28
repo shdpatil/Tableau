@@ -25,8 +25,8 @@ After having a good look at the Titanic data set .csv file I found Survived fiel
  2)Feedback 2nd: <li>Your visualization looks stunning. The conclusion photo is really nice, it is familiar though. It brings a fresh perspective.</li>
 Here are my observations.
 <li>Your revelations about data in systematic manner is appreciable.</li>
-The conclusion page could be given some kind of information which you have written on the box. Some kind of graph would have been better.
-You should always remove the null data while presenting or visualizing the data.
+<li>The conclusion page could be given some kind of information which you have written on the box. Some kind of graph would have been better.</li>
+<li>You should always remove the null data while presenting or visualizing the data.</li>
 Hope it helps!!!
 
 So I made changes accordingly.
