@@ -1,4 +1,4 @@
-
+ 
 # Tableau
 Creating a story using tableau
 
@@ -9,7 +9,7 @@ https://public.tableau.com/profile/shweta7489#!/vizhome/titanic002_twbx/Story1
 
 ### Summary:
 
-I used Titanic Dataset for my Data visualization. First I analyzed the total number of records and the survival rate depending on gender, pclass and embarkment. Then I analysed and compared the fare paid at each port and Cabins booked by passengers, and survival based on that. Then I analysed the age and survival ratio and also I created a new Family field to compare the survival rate of passangers travelling alone to the passengers travelling with the family members. According to my analysis minor female travelling in first class with the family having a Cabin has more chances to survive than a aged male travelling in third classs alone without a cabin.
+I used Titanic Dataset for my Data visualization. First I analyzed the total number of records and the survival rate depending on gender, pclass and embarkment. Then I analysed and compared the fare paid at each port and Cabins booked by passengers, and survival based on that. Then I analysed the age and survival ratio and also I created a new Family field to compare the survival rate of passangers travelling alone to the passengers travelling with the family members. According to my analysis minor female travelling in first class with the family having a Cabin has more chances to survive than a aged male travelling in third classs alone without a cabin. May be because
 
 ### Design:
 
